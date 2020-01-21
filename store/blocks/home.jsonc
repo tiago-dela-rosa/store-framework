@@ -8,7 +8,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Hello, Worlda!*",
+      "text": "**Hello, Worlda!**",
       "textPosition": "RIGHT"
     }
   },
